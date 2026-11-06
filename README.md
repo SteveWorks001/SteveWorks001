@@ -6,6 +6,14 @@
 - Learning Python, Machine Learning and Artificial Intelligence
 - Building educational and practical software projects
 - Exploring machine learning algorithms through hands-on implementation
+
+## Tech Stack
+
+- Python
+- Git
+- GitHub
+- NumPy
+- Tkinter
 <!--
 **SteveWorks001/SteveWorks001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
