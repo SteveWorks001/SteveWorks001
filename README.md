@@ -24,6 +24,17 @@ Interested in Artificial Intelligence, Machine Learning, and practical software 
 - GitHub
 - AI Coding Agents
 
+## Featured Applications
+
+### Neural Network Training Lab
+[![Neural Network Training Lab](https://github.com/SteveWorks001/Neural-Network-Training-Lab-An-Educational-Simulator/blob/main/screenshots/en/04-predictions.png)](https://github.com/SteveWorks001/Neural-Network-Training-Lab-An-Educational-Simulator)
+
+### Optimizers Lab
+[![Optimizers Lab](https://github.com/SteveWorks001/Optimizers-Lab-An-Educational-Simulator/blob/main/screenshots/en/04_auto_running.png)](https://github.com/SteveWorks001/Optimizers-Lab-An-Educational-Simulator)
+
+### Overfitting & Underfitting Lab
+[![Overfitting & Underfitting Lab](https://github.com/SteveWorks001/Overfitting-and-Underfitting-Lab-An-Educational-Simulator/blob/main/screenshots/en/03_model_over.png)](https://github.com/SteveWorks001/Overfitting-and-Underfitting-Lab-An-Educational-Simulator)
+
 ## Featured Projects
 
 ### 13 Educational Python Projects
