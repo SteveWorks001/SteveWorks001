@@ -36,8 +36,8 @@ A collection of 13 interactive educational simulators designed to explore the ma
 |---|---|---|
 | 01 | [One Artificial Neuron](https://github.com/SteveWorks001/One-Artificial-Neuron-an-Educational-Simulator) | Exploring the mathematical foundations of an artificial neuron. |
 | 02 | [Perceptron](https://github.com/SteveWorks001/Perceptron-An-Educational-Simulator) | Binary classification and decision boundaries. |
-| 03 | [Gradient Descent](https://github.com/SteveWorks001/Gradient-Descent-An-Educational-Simulator) | Optimization and gradient descent mechanics. |
-| 04 | [Mini Neural Network](https://github.com/SteveWorks001/Mini-Neural-Network-An-Educational-Simulator) | Neural network structure and forward propagation. |
+| 03 | [Mini Neural Network](https://github.com/SteveWorks001/Mini-Neural-Network-An-Educational-Simulator) | Neural network structure and forward propagation. |
+| 04 | [Gradient Descent](https://github.com/SteveWorks001/Gradient-Descent-An-Educational-Simulator) | Optimization and gradient descent mechanics. |
 | 05 | [Backpropagation](https://github.com/SteveWorks001/Backpropagation-An-Educational-Simulator) | Chain rule and gradient calculations. |
 | 06 | [Neural Network Training Lab](https://github.com/SteveWorks001/Neural-Network-Training-Lab-An-Educational-Simulator) | The neural network training process. |
 | 07 | [Activation Functions Lab](https://github.com/SteveWorks001/Activation-Functions-Lab-An-Educational-Simulator) | Activation functions and their derivatives. |
